@@ -1,0 +1,33 @@
+body {
+	background-color:#E5D7C2;
+}
+
+.mainheading {
+	text-align:center;
+}
+.number-to-guess {
+	text-decoration:underline;
+}
+
+.crystal-image {
+      width: 200px;
+      height: 200px;
+      margin:20px 20px 20px 20px;
+}
+
+.crystals {
+	text-align:center;
+}
+
+h2 {
+	text-align:center;
+}
+
+p {
+	text-align:center;
+	background-color:#443217;
+	color:white;
+	font-size:35px;
+	height:160px;
+	border-top:2px white solid;
+}
